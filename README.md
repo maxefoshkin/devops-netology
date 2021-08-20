@@ -9,3 +9,4 @@ crash.log файлы, честно не знаю почему.
 .tfstate тоже не знаю почему.
 
 New line
+IDE new line
