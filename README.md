@@ -7,3 +7,5 @@ override.tf files типа потому что дуюлирующие файлы
 .terraformrc файлы командной строки, 
 crash.log файлы, честно не знаю почему. 
 .tfstate тоже не знаю почему.
+
+New line
