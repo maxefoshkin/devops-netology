@@ -10,3 +10,5 @@ crash.log файлы, честно не знаю почему.
 
 New line
 IDE new line
+
+Second IDE new line 
